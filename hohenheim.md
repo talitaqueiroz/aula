@@ -1,6 +1,7 @@
 Agente Hohenheim
 -----------
 
+- Agente Shield
 - __Super Poder__: Super Fome;
 - **Bag**:
     - 500 G;
