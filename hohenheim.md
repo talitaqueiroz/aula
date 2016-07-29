@@ -1,6 +1,7 @@
 Agente Hohenheim
 -----------
 
+- Agente Shield
 - __Super Poder__: Super fome;
 - **Bag**:
     - gema do infinito;
