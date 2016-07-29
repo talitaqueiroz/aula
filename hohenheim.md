@@ -1,9 +1,9 @@
 Agente Hohenheim
 -----------
 
-- __Super Poder__: Super fome;
+- __Super Poder__: Super Fome;
 - **Bag**:
-    - gema do infinito;
     - 50 G;
-    - Potion *x2*;
+    - Potion *x3*;
     - Armadura de Latão.
+    - Frase: "Vocês não encontraram nenhum easterEgg na página da inscrção do Pluginfo"
