@@ -1,10 +1,12 @@
 Agente Hohenheim
 -----------
 
-- Agente Shield
-- __Super Poder__: Super Fome;
+- Agente **Shield**
+- __Super Poder__: Felicidade;
 - **Bag**:
-    - 500 G;
+    - 500 **G**;
     - Potion *x4*;
-    - Armadura de Latão.
-    - Frase: "Vocês não encontraram nenhum easterEgg na página da inscrção do Pluginfo"
+    -*Herva* medicinal 
+    - Alegria
+
+    - sadkjaslkdjaksd
